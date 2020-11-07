@@ -1,0 +1,23 @@
+h1{
+    color: #0000ff;
+}
+h2{
+    color: #2e8b57;
+}
+p{
+    color: #d2691e;
+}
+.intro{
+    background-color: #00ffff;
+    
+}
+.animals{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #8b008b;
+}
+.me{
+    background-color: #98fb98;
+    display: flex;
+    justify-content: space-between;
+}
